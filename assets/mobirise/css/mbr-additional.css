@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+
+
+
+
+
+#header4-0 H1 {
+  font-size: 72px;
+  color: #f9f30b;
+}
+#header4-0 P {
+  font-family: 'PT Serif', serif;
+  color: #f7da64;
+}
+#header4-0 I {
+  color: #000000;
+  font-size: 24px;
+}
+#header4-0 B {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-3 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-3.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-3 .mbr-navbar__section {
+  background: #000000;
+}
+#menu-3 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-3 .mbr-navbar__items a {
+  font-size: 13px;
+}
+#header4-8 H1 {
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+  font-size: 60px;
+}
+#header4-8 P {
+  text-align: center;
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+#slider-a P {
+  color: #f3fa40;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-a H1 {
+  color: #ffffff;
+}
+#slider-a B {
+  color: #f9f30b;
+  font-size: 24px;
+}
+#slider-b H1 {
+  color: #ffffff;
+  font-size: 60px;
+}
+#slider-b P {
+  color: #000000;
+  text-align: left;
+}
+#slider-b B {
+  font-family: 'Lato', sans-serif;
+  color: #efefef;
+  font-size: 24px;
+}
+#contacts1-g B {
+  color: #ffffff;
+  font-size: 16px;
+}
+#contacts1-g P {
+  color: #ffffff;
+}
+#contacts3-d B {
+  font-size: 18px;
+}
